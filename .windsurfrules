@@ -1,0 +1,11 @@
+# Windsurf — rules entry point (assets)
+
+> ⛔ **HARD RULE — never echo credentials to chat.** If asked "are you connected?", reply with the API user identity, NEVER the token. Use silent parsing for credential files. Violations force full token rotation.
+
+REQUIRED READING:
+
+1. `E:\Projects_Main\AGENT_RULES.md` — master operating manual
+2. `AGENTS.md` (this repo root) — scope and git workflow
+3. `README.md` (this repo root) — project setup
+
+Branch prefix: `agent/windsurf/<task-id>-<short-slug>`. Ernest merges all PRs.
